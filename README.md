@@ -5,10 +5,10 @@
 # Produção
 
 A API_BASE está disponível no endereço:
-https://blox-backend.herokuapp.com
+https://jpierry-crud-users.herokuapp.com
 
 O front-end foi hospedado usando surge.sh e está disponível em:
-http://blox-frontend.surge.sh
+http://jpierry-crud-users.surge.sh
 
 
 # Endpoints
